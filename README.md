@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Andri Rutschmann</h1>
+<h1 align="center">Hey 👋, I'm Andri</h1>
 <h3 align="center">Data Scientist in the Making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
