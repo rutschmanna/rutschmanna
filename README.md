@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Bumblebees actually hum while flying**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Don't be shy!</h3>
 <p align="left">
 </p>
 
