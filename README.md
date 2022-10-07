@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
 
-- 🔭 I’m currently working on: **My education as Social Data Scientist**
+- 🔭 I’m currently working on: **My Education as Social Data Scientist**
 
 - 🌱 I’m currently learning: **Java Script, Python, LaTeX, Markdown, and am further improving my R-Skills**
 
