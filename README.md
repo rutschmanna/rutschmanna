@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **Bumblebees actually hum while flying**
 
 <h3 align="center">Connect with me:</h3>
-![Do or do not. There is no try](https://i.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.webp)
+![Do or do not. There is no try](https://media1.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif?cid=790b7611ee059e2c957ef84437733baaaaa9987f4b5bae76&rid=giphy.gif&ct=g)
 <p align="left">
 </p>
 
