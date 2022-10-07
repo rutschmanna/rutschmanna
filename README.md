@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **Bumblebees actually hum while flying**
 
 <h3 align="center">Connect with me:</h3>
-![Do or do not](https://user-images.githubusercontent.com/96571546/194543121-302d7f9d-5946-4016-a5a2-d75239f6debf.gif)
+![Do](https://user-images.githubusercontent.com/96571546/194543121-302d7f9d-5946-4016-a5a2-d75239f6debf.gif)
 
 
 <h3 align="left">Programming Languages and Skills:</h3>
