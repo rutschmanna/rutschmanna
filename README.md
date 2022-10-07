@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
 
-- 🔭 I’m currently working on **My education as Social Data Scientist**
+- 🔭 I’m currently working on: **My education as Social Data Scientist**
 
-- 🌱 I’m currently learning **Python, LaTeX, and many more...**
+- 🌱 I’m currently learning: **Java Script, Python, LaTeX, Markdown, and am further improving my R-Skills**
 
-- 📫 How to reach me **andri.rutschmann@tuta.io**
+- 📫 How to reach me: Via [mail](mailto:andri.rutschmann@tuta.io)
 
-- ⚡ Fun fact **Bumblebees actually hum while flying**
+- ⚡ Fun fact: **Bumblebees actually hum while flying**
 
 <h3 align="left">Connect with me: Don't be shy!</h3>
 <p align="left">
