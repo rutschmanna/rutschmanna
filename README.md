@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **My Education as Social Data Scientist**
 
-- 🌱 I’m currently learning: **Java Script, Python, LaTeX, Markdown, and am further improving my R-Skills**
+- 🌱 I’m currently learning: **JavaScript, Python, LaTeX, Markdown, and am further improving my R-Skills**
 
 - 📫 How to reach me: [E-Mail](mailto:andri.rutschmann@tuta.io)
 
