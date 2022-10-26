@@ -1,17 +1,17 @@
-<h1 align="center">Hey 👋, I'm Andri</h1>
+<h1 align="center">Hey, I'm Andri 👋</h1>
 <h3 align="center">Data Scientist in the Making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
 
 - 🔭 I’m currently working on: **My Education as Social Data Scientist**
 
-- 🌱 I’m currently learning: **JavaScript, Python, LaTeX, Markdown, and am further improving my R-Skills**
+- 🌱 I’m currently learning: **Java, JavaScript, Python, LaTeX, Markdown, and am further improving my R-Skills**
 
-- 📫 How to reach me: [E-Mail](mailto:andri.rutschmann@tuta.io)
+- 📫 How to reach me: Send me an [E-Mail](mailto:andri.rutschmann@tuta.io)
 
-- ⚡ Fun fact: **Bumblebees actually hum while flying**
+- ⚡ What you should know: **I didn't write my Bachelor Thesis in LaTeX. I know... Shame, shame, shame...**
 <br/>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">My philosophy:</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/96571546/194543121-302d7f9d-5946-4016-a5a2-d75239f6debf.gif" alt="Do" width="435" height="220"/>
 <br/>
 <br/>
