@@ -20,6 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a> <br>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/> </a> <br>
+  <a href="https://docs.vllm.ai/en/latest/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Logo.svg" alt="vLLM" width="40" height="40"/> </a> <br>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Huggingface" width="40" height="40"/> </a> <br>
 </p>
