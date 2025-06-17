@@ -7,13 +7,16 @@
 
 - 🌱 Currently exploring: **Generative ABMs, Social Media Dynamics, and LLM Simulacra**
 
+- ⚡ You should know: **I, personally, don't like using LLMs... 👉👈**
+
 - 📫 [Contact me](mailto:andri.rutschmann@uni-konstanz.de)
 
-- ⚡ You should know: **I, personally, don't like using LLMs... 👉👈**
+
 <br/>
 <p align="center"> <img src="https://user-images.githubusercontent.com/96571546/194543121-302d7f9d-5946-4016-a5a2-d75239f6debf.gif" alt="Do" width="435" height="220"/>
 <br/>
 <br/>
+
 <h4 align="left">Focus Skills:</h4>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
@@ -25,6 +28,7 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Huggingface" width="40" height="40"/> </a> <br>
 </p>
+
 <h4 align="left">Coding Skills:</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -40,8 +44,7 @@
   <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/> </a> <br>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> 
-</a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> </a> <br>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a> <br>
 </p>
