@@ -14,11 +14,40 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/96571546/194543121-302d7f9d-5946-4016-a5a2-d75239f6debf.gif" alt="Do" width="435" height="220"/>
 <br/>
 <br/>
-<h3 align="left">Programming Languages and Skills:</h3>
+<h4 align="left">Focus Skills:</h4>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/tree/master/icons/tensorflow/
+tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/tree/master/icons/pytorch/
+pytorch-original.svg" alt="Pytorch" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 🤗 </a>
+</p>
+<h4 align="left">Coding Skills:</h4>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/
+python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" 
+alt="R" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-
+original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/tree/master/icons/kubernetes/
+kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/tree/master/icons/docker/
+docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/tree/master/icons/fedora/
+fedora-original.svg" alt="Fedora" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/devicons/devicon/tree/master/icons/ubuntu/
+ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-ori
+ginal.svg" alt="Vim" width="40" height="40"/> </a>
 </p>
