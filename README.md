@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a> <br>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/> </a> <br>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="font-size: 40px;"> 🤗 </a> 
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="font-size: 80px;">🤗</a>
 <br>
 </p>
 <h4 align="left">Coding Skills:</h4>
