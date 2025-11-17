@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
 
-- 🔭 Working on: **Master Thesis: Simulating Public Online Discourse using Large Language Models**
+- 🔥 Working on: **My first publications!**
+
+- 🔭 Just finished: Simulating Public Online Discourse using Large Language Models (M.Sc.)
 
 - 🌱 Currently exploring: **Generative ABMs, Social Media Dynamics, and LLM Simulacra**
 
-- ⚡ You should know: **I, personally, don't like using LLMs... 👉👈**
+- ⚡ You should know: **I don't like using LLMs... 👉👈**
 
-- 📫 [Contact me](mailto:andri.rutschmann@uni-konstanz.de)
+- 📫 [Contact me](mailto:andri.rutschmann@tuta.io)
 
 
 <br/>
