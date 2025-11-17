@@ -22,7 +22,7 @@
 <h4 align="left">Focus Skills:</h4>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/> </a> <br>
   <a href="https://docs.vllm.ai/en/latest/" target="_blank" rel="noreferrer">
