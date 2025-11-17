@@ -24,9 +24,9 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/> </a>
   <a href="https://docs.vllm.ai/en/latest/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Logo.svg" alt="vLLM" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Logo.svg" alt="vLLM" width="40" height="40"/> </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Huggingface" width="40" height="40"/> </a> <br>
 </p>
@@ -34,19 +34,19 @@
 <h4 align="left">Coding Skills:</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
   <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> </a> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a> <br>
 </p>
