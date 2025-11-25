@@ -9,11 +9,9 @@
 
 - 🌱 Currently exploring: **Generative ABMs, Social Media Dynamics, and LLM Simulacra**
 
-- 👁️ More? Visit my [Website](https://rutschmanna.github.io)
-
 - ⚡ You should know: **I don't like using LLMs... 👉👈**
 
-- 📫 [Contact me](mailto:rutschmanna@pm.me)
+- 📫 Want to know more? Visit my [website](https://rutschmanna.github.io) or [contact me](mailto:rutschmanna@pm.me)
 
 
 <br/>
