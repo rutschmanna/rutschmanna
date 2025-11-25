@@ -11,7 +11,7 @@
 
 - ⚡ You should know: **I don't like using LLMs... 👉👈**
 
-- 📫 [Contact me](mailto:andri.rutschmann@tuta.io)
+- 📫 [Contact me](mailto:rutschmanna@pm.me)
 
 
 <br/>
