@@ -5,7 +5,7 @@
 
 - 🔥 Working on: **My first publications!**
 
-- 🔭 Just finished: Simulating Public Online Discourse using Large Language Models (M.Sc.)
+- 🔭 Just finished: **Simulating Public Online Discourse using Large Language Models** (M.Sc.)
 
 - 🌱 Currently exploring: **Generative ABMs, Social Media Dynamics, and LLM Simulacra**
 
