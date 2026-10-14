@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andri 👋</h1>
 <h3 align="center">Data Scientist with Focus on Machine Learning and AI</h3>
 
-![Github Views](https://views.igorkowalczyk.dev/api/badge/rutschmanna&style=classic)
+<p align="left"> <img src="![Github Views](https://views.igorkowalczyk.dev/api/badge/YOUR-USERNAME)" alt="rutschmanna" /> </p>
 
 - 🔥 Working on: **My first publications!**
 
