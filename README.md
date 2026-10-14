@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andri 👋</h1>
 <h3 align="center">Data Scientist with Focus on Machine Learning and AI</h3>
 
-<p align="left"> <img src="![Github Views](https://views.igorkowalczyk.dev/api/badge/YOUR-USERNAME)" alt="rutschmanna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
 
 - 🔥 Working on: **My first publications!**
 
@@ -11,7 +11,7 @@
 
 - ⚡ You should know: **I don't like using LLMs... 👉👈**
 
-- 📫 Want to know more? Visit my [website](https://rutschmanna.github.io) or [contact me](mailto:rutschmanna@pm.me)
+- 📫 Want to know more? Visit https://rutschmanna.github.io or [contact me](mailto:rutschmanna@pm.me)
 
 
 <br/>
