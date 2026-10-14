@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andri 👋</h1>
 <h3 align="center">Data Scientist with Focus on Machine Learning and AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutschmanna&label=Profile%20views&color=0e75b6&style=flat" alt="rutschmanna" /> </p>
+![Github Views](https://views.igorkowalczyk.dev/api/badge/rutschmanna&style=classic)
 
 - 🔥 Working on: **My first publications!**
 
